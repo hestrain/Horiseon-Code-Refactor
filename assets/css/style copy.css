@@ -15,23 +15,22 @@ header {
     color: #ffffff;
 }
 
-h1 {
+header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-h1 seo {
+header h1 .seo {
     color: #d9dcd6;
 }
 
 ul {
+    list-style-type: none;
     padding-top: 15px;
     margin-right: 20px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
-    list-style-type: none;
-    color: #ffffff;
 }
 
 li {
@@ -75,7 +74,6 @@ p {
 
 .benefits {
     margin-right: 20px;
-    margin-bottom: 32px;
     padding: 20px;
     clear: both;
     float: right;
@@ -83,6 +81,10 @@ p {
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
+}
+
+.benefits tagline {
+    margin-bottom: 32px;
     color: #ffffff;
 }
 
@@ -91,13 +93,13 @@ p {
     text-align: center;
 }
 
-.benefit img {
+.benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.tagline {
+section {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -106,13 +108,14 @@ p {
     color: #ffffff;
 }
 
-img {
+section img {
     max-height: 200px;
 }
 
-h2 {
+section h2 {
     margin-bottom: 20px;
     font-size: 36px;
+    margin-top: 20px;
 }
 
 footer {
@@ -125,3 +128,4 @@ footer {
 footer h2 {
     font-size: 20px;
 }
+/* fix margins in this bit */
