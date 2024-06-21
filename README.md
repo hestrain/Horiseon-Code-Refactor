@@ -1,4 +1,4 @@
-# Heathers Prework Study Guide Webpage
+# Heathers Challenge 1
 
 ## Description
 This is the first challenge for "Module 01 HTML, CSS, and Git" of the bootcamp. It was titled Code Refactor.
