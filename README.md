@@ -5,11 +5,9 @@ This is the first challenge for "Module 01 HTML, CSS, and Git" of the bootcamp. 
 
 Below are screenshots to see the final product: 
 
-![Header](./images/horiseon-header-screencap.png)
+![Horiseon webpage header](./assets/images/horiseon-header-screencap.png)
 
-![Webpage](/images/horiseon-header-screencap.png)
-
-
+![Horiseon Website](./assets/images/horiseon-webpage-screencap.png)
 
 
 ## Installation
