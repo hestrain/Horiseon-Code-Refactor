@@ -1,7 +1,16 @@
-# Heathers Module 1 Challenge
+# Heathers Module 1 Challenge - HTML, CSS, and Git: Code Refactor
 
 ## Description
 This is the first challenge for "Module 01 HTML, CSS, and Git" of the bootcamp. It was titled Code Refactor.
+
+Below are screenshots to see the final product: 
+
+![Header](./images/horiseon-header-screencap.png)
+
+![Webpage](/images/horiseon-header-screencap.png)
+
+
+
 
 ## Installation
 
@@ -11,9 +20,9 @@ N/A
 
 although the code was provided, the challenge was to clean up the HTML Semantic Elements, as well as to add alt text to the images. 
 
-The live webpage can be found hosted on github at the following link: https://hestrain.github.io/challenge1/
+The live webpage can be found hosted on github at the following link: https://hestrain.github.io/Horiseon-Code-Refactor/
 
-The code repository can be found on github at the following link: 
+The code repository can be found on github at the following link: https://github.com/hestrain/Horiseon-Code-Refactor
 
 ## Credits
 
