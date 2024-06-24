@@ -1,4 +1,4 @@
-# Heathers Challenge 1
+# Heathers Module 1 Challenge
 
 ## Description
 This is the first challenge for "Module 01 HTML, CSS, and Git" of the bootcamp. It was titled Code Refactor.
@@ -10,6 +10,10 @@ N/A
 ## Usage
 
 although the code was provided, the challenge was to clean up the HTML Semantic Elements, as well as to add alt text to the images. 
+
+The live webpage can be found hosted on github at the following link: https://hestrain.github.io/challenge1/
+
+The code repository can be found on github at the following link: 
 
 ## Credits
 
